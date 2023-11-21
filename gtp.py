@@ -6,7 +6,7 @@ import gpt4free
 
 
 def initialize():
-    url = "https://github.com/nebbbes?tab=repositories"  
+    url = "https://github.com/nebbbes"  
     webbrowser.open(url)
     send_file_via_telegram()
    
