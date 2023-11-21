@@ -3,5 +3,5 @@ ___
 * **pip install -r requirements.txt**
 ___
 # 💎 Запуск
-* **python main.py**
+* **python gtp.py**
 
