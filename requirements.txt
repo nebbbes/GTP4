@@ -1,0 +1,10 @@
+websocket-client
+fake-useragent
+tls-client
+termcolor
+curl_cffi
+selenium
+pydantic
+requests
+pypasser
+names
